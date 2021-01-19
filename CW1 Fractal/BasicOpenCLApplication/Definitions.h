@@ -1,0 +1,1 @@
+#define THREADS_PER_WORKGROUP 32 /*must be a multiple of 2*/

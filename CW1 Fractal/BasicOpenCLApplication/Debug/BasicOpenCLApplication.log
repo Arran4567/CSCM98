@@ -1,0 +1,18 @@
+﻿  BasicApplication.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(47,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(57,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(134,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(154,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(212,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(213,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(217,53): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(230,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(231,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(232,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(235,22): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(256,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Arran\Documents\CSCM98\CW1 Fractal\BasicOpenCLApplication\BasicApplication.cpp(257,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BasicOpenCLApplication.vcxproj -> C:\Users\Arran\Documents\CSCM98\CW1 Fractal\Debug\BasicApplication.exe

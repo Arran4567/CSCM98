@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BasicOpenCLApplication">
+</Property><Property Name="Solution File" Value="E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication.sln">
+</Property><Property Name="User Options File" Value="E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication.suo">
+</Property><Property Name="Date" Value="15 February 2013">
+</Property><Property Name="Time" Value="10:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BasicOpenCLApplication.sln" Description="File successfully backed up as E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="BasicOpenCLApplication.suo" Description="File successfully backed up as E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication.suo.old">
+</Event><Event ErrorLevel="0" Project="BasicOpenCLApplication" Source="BasicOpenCLApplication\BasicOpenCLApplication.vcproj" Description="Converting project file 'E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication\BasicOpenCLApplication.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BasicOpenCLApplication" Source="BasicOpenCLApplication\BasicOpenCLApplication.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="BasicOpenCLApplication" Source="BasicOpenCLApplication\BasicOpenCLApplication.vcproj" Description="Done converting to new project file 'E:\Ben\Course\2012-2013\CSM67\Coursework\Lab3 SolutionVS2008\BasicOpenCLApplication\BasicOpenCLApplication\BasicOpenCLApplication.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BasicOpenCLApplication" Source="BasicOpenCLApplication\BasicOpenCLApplication.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BasicOpenCLApplication.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BasicOpenCLApplication.sln" Description="Converted">
+</Event></UpgradeLog>
